@@ -1,0 +1,1 @@
+Add query parameter to login, e.g. ?username=Max
